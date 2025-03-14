@@ -1,6 +1,6 @@
 {
   "name": "bati",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/vikejs/bati-npm",
   "main": "bati.js",
   "scripts": {
