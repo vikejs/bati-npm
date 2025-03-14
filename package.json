@@ -1,7 +1,10 @@
 {
   "name": "bati",
   "version": "0.0.1",
-  "main": "bati.js",
   "repository": "https://github.com/vikejs/bati-npm",
+  "main": "bati.js",
+  "scripts": {
+    "release": "npm version patch && npm publish && git push && git push --tags"
+  },
   "type": "module"
 }
