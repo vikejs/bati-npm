@@ -1,0 +1,6 @@
+{
+  "name": "bati",
+  "version": "0.0.1",
+  "main": "bati.js",
+  "type": "module"
+}
